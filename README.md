@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This proposed style guide will act as the official guide to follow in future Teknasyon projects. Teknasyon is a large company with many great and diverse developers, there are many opinions on the "ideal" style in the world of development. A unified agreed-on guideline will help us collaborate together, understand and appreciate each other’s work easily :)
+This style guide serves as the official guide we follow in Teknasyon projects. Teknasyon is a large company with many great and diverse developers, there are many opinions on the "ideal" style in the world of development. A unified agreed-on guideline will help us collaborate together, understand and appreciate each other’s work easily :)
 
 ## Commit Types
 
@@ -28,9 +28,10 @@ Use an imperative tone to describe what a commit does, rather than what it did. 
 ---
 
 ## Examples
-[init] Add initial project files
-[fix] Fix a bug where login button was not working
-[chore] Update dependencies
-[doc] Add README file
-[refactor] Refactor localization code
-[release] v1.0.2
+
+- [init] Add initial project files
+- [fix] Fix a bug where login button was not working
+- [chore] Update dependencies
+- [doc] Add README file
+- [refactor] Refactor localization code
+- [release] v1.0.2
